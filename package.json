@@ -1,8 +1,12 @@
 {
   "name": "grades-control-api_desafio",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:SilasEduardo/grades-control-api_desafio.git",
   "author": "SilasEduardo <silasandrade94@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
